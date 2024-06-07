@@ -1,0 +1,11 @@
+h1, h2 {
+    text-align: center;
+}
+.form {
+    display: flex;
+    align-items: center;
+}
+.center-container {
+    text-align: center;
+}
+
